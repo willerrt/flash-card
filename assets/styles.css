@@ -1,9 +1,9 @@
 :root {
-    --text-color: #E0F7FA;          /* Cor clara de texto, próxima do azul claro */
-    --card-front-color: rgba(0, 96, 128, 0.7);  /* Azul escuro translúcido para a frente do cartão */
-    --card-back-color: #00ACC1;     /* Azul turquesa mais vibrante para o verso do cartão */
-    --footer-bg-color: #004D40;     /* Verde azulado escuro para o rodapé */
-    --footer-text-color: #B2DFDB;   /* Azul claro esverdeado para o texto do rodapé */
+    --text-color: #ECE9E4;          /* Cor clara do céu ao fundo */
+    --card-front-color: rgba(60, 68, 86, 0.7);  /* Azul escuro acinzentado das montanhas, translúcido */
+    --card-back-color: #A0C2B0;     /* Verde claro acinzentado do lago/folhas */
+    --footer-bg-color: #384252;     /* Azul escuro mais profundo das montanhas */
+    --footer-text-color: #D3D8E2;   /* Cor clara das nuvens/neve */
 }
 
 body {
